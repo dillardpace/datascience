@@ -1,5 +1,6 @@
-# datascience
-Data Science Projects
+# horseracing
+# Data Science Project
 
-# Hello! I am interested in Data Science and wish to transition my career to DS!
-# I'm currently learning about machine learning methods and algorithms such as random forest, bagging, and boosting
+# This is my data science and machine learning project on predicting horse racing!
+# I predict which horse will win in any given race using binary classification models and which horse will place (top 3 in a race)
+# In this project I demonstrate EDA(removing outliers, scaling), visualization, machine learning models(logistic regressing, bagging, random forest)
